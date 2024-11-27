@@ -6,3 +6,5 @@ def saluto_personalizzato(nome):
 variabile_fuori_funzione = saluto_personalizzato("Marco")
 print(variabile_fuori_funzione)
 print(type(variabile_fuori_funzione))
+
+print("proviamo a inserire una modifica")
